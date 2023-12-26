@@ -1,1 +1,3 @@
-# ECE1513
+# ECE1513 
+
+In this assignment, you will be implementing the following algorithms: Pocket Algorithm, and Linear Regression; using two different methods of coding approaches. In the first approach, you will implement these algorithms using Python and functions in the NumPy library only. In the second approach, you will use scikit-learn to gauge how well your initial implementation using NumPy functions fares in comparison to off-the-shelf modules available in scikit-learn. You will also be asked to answer several questions related to your implementations. To avoid any potential installation issue, you are encouraged to develop your solution using Google Colab notebooks.
